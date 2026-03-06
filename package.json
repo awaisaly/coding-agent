@@ -1,5 +1,5 @@
 {
-  "name": "coding-agent",
+  "name": "mini-coding-agent",
   "version": "0.1.0",
   "description": "A mini Node.js coding agent CLI that loads Agent Skills from .skills/ and runs Claude Sonnet.",
   "type": "module",

@@ -4,7 +4,7 @@ All notable changes to this project will be documented in this file.
 
 ## [0.1.0] - 2025-01-XX
 
-Initial release of coding-agent - a lightweight Node.js CLI that brings the Agent Skills concept to life.
+Initial release of mini-coding-agent - a lightweight Node.js CLI that brings the Agent Skills concept to life.
 
 ### ✨ New Features
 

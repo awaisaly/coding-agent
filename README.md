@@ -1,4 +1,4 @@
-# coding-agent
+# mini-coding-agent
 
 A tiny Node.js CLI that implements the **Agent Skills** concept:
 
